@@ -39,8 +39,6 @@ $(function () {
     
 
 
-
-
     // TODO 3 - Create Collectables
     createcollectables("database", 700, 500);
     createcollectables("database", 350, 250);
